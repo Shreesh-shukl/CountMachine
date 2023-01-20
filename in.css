@@ -1,0 +1,27 @@
+.container{
+    background: rgb(39, 1, 87);
+    margin-top: auto;
+}
+
+.button-container{
+    background: red;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.decrease, .reset, .increase{
+    background-color: #0c5b1e; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 25%;
+
+
+}
